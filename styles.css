@@ -1,0 +1,34 @@
+body {
+    background-color: #F4F1DE;
+    font-family: Arial;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #3D405B;
+  }
+  
+  table {
+    border-collapse: separate;
+    text-align: center;
+    margin: auto;
+  }
+  
+  th {
+    height: 30px;
+    background-color: DarkTurquoise;
+    color: #3D405B;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  table {
+    border: 1px solid darkBlue;
+  } 
+  
+  .col1 {
+    background-color: #f2cc8f;
+  }
